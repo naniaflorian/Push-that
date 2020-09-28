@@ -1,3 +1,3 @@
 git add --all
-git commit -m "add all folder"
+git commit -m "#!/bash/yankpop"
 git push --all
