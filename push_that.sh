@@ -1,3 +1,5 @@
+#!/bin/bash
 git add --all
-git commit -m "#!/bin/bash"
+git commit -m "%1"
 git push --all
+git status
