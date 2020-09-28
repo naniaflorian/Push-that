@@ -1,3 +1,3 @@
-git add push_that.sh
-git commit -m "add push_that.sh"
-git push push_that.sh
+git add --all
+git commit -m "add all folder"
+git push --all
